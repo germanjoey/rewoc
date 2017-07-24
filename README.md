@@ -1,4 +1,4 @@
-Extension to finish translating the incomplete World of Cultivation translation. For chrome/vivaldi: http://media.rhizzone.net/woc_translate.zip
+Extension to finish translating the incomplete World of Cultivation translation. For chrome/vivaldi: https://github.com/germanjoey/rewoc/archive/master.zip
 
 Install Instructions:
 
